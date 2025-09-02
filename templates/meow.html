@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/x-icon" href="/static/laliga.png">
+        <title>Predictions</title>
+        <style>
+            p {
+                text-align: center;
+                background-color: #cacae1;
+                color: rgb(0, 0, 0);
+                background: url('/static/');
+            }
+
+
+            h1 {
+                text-align: center;
+                color: azure;
+                text-shadow: 0 0 5px #7b68ee, 0 0 10px #7b68ee, 0 0 15px #7b68ee, 0 0 20px #7b68ee;
+                }
+            h2 {
+                text-align: center;
+                color:#000000;
+                text-shadow: 0 0 5px #ea74ea, 0 0 10px #ea74ea, 0 0 15px #ea74ea;}
+
+            h3 {
+                text-align: center;
+                color: rgb(255, 255, 255);
+                text-shadow: 0 0 5px #a821bf, 0 0 10px #a821bf, 0 0 15px #a821bf;
+            }
+
+    body {
+    background: url(/static/s3.jpg);
+    top: 350px;
+    position: relative;
+    }
+
+        </style>
+    </head>
+
+    <body>
+        <h1>Match Chosen: {{meow[0]}}</h1>
+        <h2>Result Predicted: {{meow[1]}}</h2>
+        <h3>{{meow[2]}}</h3>
+        <h3>{{meow[3]}}</h3>
+        <h3>{{meow[4]}}</h3>
+    </body>
+</html>

@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LaLiga Prediction</title>
+    <link rel="icon" type="image/x-icon" href="/static/laliga.png">
+</head>
+<body>
+
+<img src="/static/laliga.png">
+
+    <h1>*** Foot Ball-LaLiga Predictor ***</h1>
+    <form action="{{ url_for("change")}}" method="post">
+
+
+    <label for="home">HOME TEAM NAME:</label>
+    <!-- <input type="text" id="home" name="home" placeholder="home team"> -->
+    <label for="away">AWAY TEAM NAME:</label>
+    <!-- <input type="text" id="away" name="away" placeholder="away team">
+    <button type="submit">Login</button> -->
+
+
+    <br>
+    <form method="post" action="/change">
+
+
+        <select id="HOME" name="HOME">
+            <option value="Ath.Bilbao">Ath.Bilbao</option>
+            <option value="Ath.Madrid">Ath.Madrid</option>
+            <option value="Barcelona">Barcelona</option>
+            <option value="Eibar">Eibar</option>
+            <option value="Espanyol">Espanyol</option>
+            <option value="Real Madrid">Real Madrid</option>
+            <option value="Real Sociedad">Real Sociedad</option>
+            <option value="Sevilla">Sevilla</option>
+            <option value="Valencia">Valencia</option>
+            <option value="Villareal">Villareal</option>
+        </select>
+
+
+        <select id="AWAY" name="AWAY">
+            <option value="Ath.Bilbao">Ath.Bilbao</option>
+            <option value="Ath.Madrid">Ath.Madrid</option>
+            <option value="Barcelona">Barcelona</option>
+            <option value="Eibar">Eibar</option>
+            <option value="Espanyol">Espanyol</option>
+            <option value="Real Madrid">Real Madrid</option>
+            <option value="Real Sociedad">Real Sociedad</option>
+            <option value="Sevilla">Sevilla</option>
+            <option value="Valencia">Valencia</option>
+            <option value="Villareal">Villareal</option>
+        </select>
+
+
+        <input type="submit" onClick='Submit' value='Predict'>
+      </form> 
+      
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+    *{
+        margin:0;
+        padding:0;
+        box-sizing: border-box;
+    }
+    
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+         background: #000000;23072a
+        font-family: 'Raleway', sans-serif;
+        font-weight: bold;
+      }
+    
+      h1 {
+        position: absolute;
+        text-align:center;
+        color: greay;
+        font-weight: bolder;
+        font-family: 'Raleway',monospace;
+        display: flex;
+        top: 70px;
+        text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #fff, 0 0 30px #fff,
+        0 0 40px #ffffff;
+        font-size: 60px;
+    }
+
+
+
+    label {
+    color: #ffffff;
+    position: relative;
+    margin-right: 140px;
+    top: 39px;
+}
+
+
+
+    select {
+    border-radius: 20px;
+    border-style: solid;
+    position: relative;
+    display: inline-flex;
+    padding: 25px 30px;
+    margin: 40px 0;
+    color: #000000;6011c0d8
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.5s;
+    letter-spacing: 4px;
+    overflow: hidden;
+    margin-right: 50px;
+    }
+
+
+     select:hover {
+        background: #ffffff;
+        color: #6b057d;
+        box-shadow: 0 0 5px  #ffffff, 0 0 25px  #ffffff, 0 0 50px  #ffffff, 0 0 200px  #ffffff;
+        -webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
+      }
+
+
+      select:nth-child(1) {
+        filter: hue-rotate(270deg);
+      }
+
+      option{
+        background: #000000;
+        color: #ffffff;
+        text-shadow: 0 0 5px #cfdd35d3, 0 0 15px #cfdd35d3, 0 0 20px#cfdd35d3, 0 0 40px #cfdd35d3, 0 0 60px #cfdd35d3, 0 0 10px #cfdd35d3, 0 0 88px#cfdd35d3;
+      }
+
+
+
+
+    input {
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #050801;
+    position: relative;
+    display: inline-flex;
+    padding: 15px 20px;
+    margin: 40px 0;
+    color: #000000;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.5s;
+    letter-spacing: 4px;
+    overflow: hidden;
+    margin-right: 50px;
+    filter: hue-rotate(150deg);
+    }
+
+
+     input:hover {
+        background: #0000ff;
+        color: #ffffff;
+        box-shadow: 0 0 5px #0000ff, 0 0 25px #0000ff, 0 0 50px #0000ff, 0 0 200px #0000ff;
+        -webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
+      }
+
+
+
+      input:nth-child(1) {
+        filter: hue-rotate(150deg);
+      }
+
+
+    a {
+    border-radius: 20px;
+    border-style: solid;
+    position: relative;
+    display: inline-flex;
+    padding: 25px 30px;
+    margin: 40px 0;
+    color: #03e9f4;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.5s;
+    letter-spacing: 4px;
+    overflow: hidden;
+    margin-right: 50px;
+    }
+    
+
+    a:hover {
+        background: #03e9f4;
+        color: #050801;
+        box-shadow: 0 0 5px #03e9f4, 0 0 25px #03e9f4, 0 0 50px #03e9f4, 0 0 200px #03e9f4;
+        -webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
+      }
+    
+     a:nth-child(1) {
+        filter: hue-rotate(270deg);
+      }
+      
+      a:nth-child(2) {
+        filter: hue-rotate(150deg);
+      }
+
+    </style>
+    
+</body>
+</html>
