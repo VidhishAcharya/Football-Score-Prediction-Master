@@ -1,0 +1,451 @@
+home_team,away_team,home_score,away_score
+Real Madrid,Ath.Bilbao,3,0
+Real Madrid,Barcelona,0,1
+Real Madrid,Ath.Madrid,0,0
+Real Madrid,Valencia,2,0
+Real Madrid,Sevilla,2,0
+Real Madrid,Espanyol,1,0
+Real Madrid,Real Sociedad,0,2
+Real Madrid,Villareal,3,2
+Real Madrid,Eibar,2,1
+Ath.Bilbao,Real Madrid,1,1
+Barcelona,Real Madrid,5,1
+Ath.Madrid,Real Madrid,1,3
+Valencia,Real Madrid,2,1
+Sevilla,Real Madrid,3,0
+Espanyol,Real Madrid,2,4
+Real Sociedad,Real Madrid,3,1
+Villareal,Real Madrid,2,2
+Eibar,Real Madrid,3,0
+Barcelona,Ath.Bilbao,1,1
+Barcelona,Ath.Madrid,2,0
+Barcelona,Valencia,2,2
+Barcelona,Sevilla,4,2
+Barcelona,Espanyol,2,0
+Barcelona,Real Sociedad,2,1
+Barcelona,Villareal,2,0
+Barcelona,Eibar,3,0
+Ath.Bilbao,Barcelona,0,0
+Ath.Madrid,Barcelona,1,1
+Valencia,Barcelona,1,1
+Sevilla,Barcelona,2,4
+Espanyol,Barcelona,0,4
+Real Sociedad,Barcelona,1,2
+Villareal,Barcelona,4,4
+Eibar,Barcelona,2,2
+Ath.Madrid,Eibar,1,1
+Ath.Madrid,Villareal,2,0
+Ath.Madrid,Real Sociedad,2,0
+Ath.Madrid,Espanyol,1,0
+Ath.Madrid,Sevilla,1,1
+Ath.Madrid,Valencia,3,2
+Ath.Madrid,Ath.Bilbao,3,2
+Eibar,Ath.Madrid,0,1
+Villareal,Ath.Madrid,1,1
+Real Sociedad,Ath.Madrid,0,2
+Espanyol,Ath.Madrid,3,0
+Sevilla,Ath.Madrid,1,1
+Valencia,Ath.Madrid,1,1
+Ath.Bilbao,Ath.Madrid,2,0
+Ath.Bilbao,Valencia,0,0
+Ath.Bilbao,Sevilla,2,0
+Ath.Bilbao,Espanyol,1,1
+Ath.Bilbao,Real Sociedad,1,3
+Ath.Bilbao,Villareal,0,3
+Ath.Bilbao,Eibar,1,0
+Valencia,Ath.Bilbao,2,0
+Sevilla,Ath.Bilbao,2,0
+Espanyol,Ath.Bilbao,1,0
+Real Sociedad,Ath.Bilbao,2,1
+Villareal,Ath.Bilbao,1,1
+Eibar,Ath.Bilbao,1,1
+Valencia,Villareal,3,0
+Valencia,Eibar,0,1
+Valencia,Real Sociedad,0,0
+Valencia,Espanyol,0,0
+Valencia,Sevilla,1,1
+Villareal,Valencia,0,0
+Eibar,Valencia,1,1
+Real Sociedad,Valencia,0,1
+Espanyol,Valencia,2,0
+Sevilla,Valencia,0,1
+Sevilla,Eibar,2,2
+Sevilla,Villareal,0,0
+Sevilla,Real Sociedad,5,2
+Sevilla,Espanyol,2,1
+Eibar,Sevilla,1,3
+Villareal,Sevilla,3,0
+Real Sociedad,Sevilla,0,0
+Espanyol,Sevilla,0,1
+Villareal,Eibar,1,0
+Villareal,Real Sociedad,1,2
+Villareal,Espanyol,2,2
+Eibar,Villareal,0,0
+Real Sociedad,Villareal,0,1
+Espanyol,Villareal,3,1
+Eibar,Real Sociedad,2,1
+Eibar,Espanyol,3,0
+Espanyol,Eibar,1,0
+Real Sociedad,Eibar,1,1
+Real Sociedad,Espanyol,3,2
+Espanyol,Real Sociedad,2,0
+Real Madrid,Ath.Bilbao,1,1
+Real Madrid,Barcelona,0,3
+Real Madrid,Ath.Madrid,1,1
+Real Madrid,Valencia,2,2
+Real Madrid,Sevilla,5,0
+Real Madrid,Espanyol,2,0
+Real Madrid,Real Sociedad,5,2
+Real Madrid,Villareal,0,1
+Real Madrid,Eibar,3,0
+Ath.Bilbao,Real Madrid,0,0
+Barcelona,Real Madrid,2,2
+Ath.Madrid,Real Madrid,0,0
+Valencia,Real Madrid,1,4
+Sevilla,Real Madrid,3,2
+Espanyol,Real Madrid,1,0
+Real Sociedad,Real Madrid,1,3
+Villareal,Real Madrid,2,2
+Eibar,Real Madrid,1,2
+Barcelona,Ath.Bilbao,2,0
+Barcelona,Ath.Madrid,1,0
+Barcelona,Valencia,2,1
+Barcelona,Sevilla,2,1
+Barcelona,Espanyol,5,0
+Barcelona,Real Sociedad,1,0
+Barcelona,Villareal,5,1
+Barcelona,Eibar,6,1
+Ath.Bilbao,Barcelona,0,2
+Ath.Madrid,Barcelona,1,1
+Valencia,Barcelona,1,1
+Sevilla,Barcelona,2,2
+Espanyol,Barcelona,1,1
+Real Sociedad,Barcelona,2,4
+Villareal,Barcelona,0,2
+Eibar,Barcelona,0,2
+Ath.Madrid,Eibar,2,2
+Ath.Madrid,Villareal,1,1
+Ath.Madrid,Real Sociedad,2,1
+Ath.Madrid,Espanyol,0,2
+Ath.Madrid,Sevilla,2,0
+Ath.Madrid,Valencia,1,0
+Ath.Madrid,Ath.Bilbao,2,0
+Eibar,Ath.Madrid,0,1
+Villareal,Ath.Madrid,2,1
+Real Sociedad,Ath.Madrid,3,0
+Espanyol,Ath.Madrid,1,0
+Sevilla,Ath.Madrid,2,5
+Valencia,Ath.Madrid,0,0
+Ath.Bilbao,Ath.Madrid,1,2
+Ath.Bilbao,Valencia,1,1
+Ath.Bilbao,Sevilla,1,0
+Ath.Bilbao,Espanyol,0,1
+Ath.Bilbao,Real Sociedad,0,0
+Ath.Bilbao,Villareal,1,1
+Ath.Bilbao,Eibar,1,1
+Valencia,Ath.Bilbao,3,2
+Sevilla,Ath.Bilbao,2,0
+Espanyol,Ath.Bilbao,1,1
+Real Sociedad,Ath.Bilbao,3,1
+Villareal,Ath.Bilbao,1,3
+Eibar,Ath.Bilbao,0,1
+Valencia,Villareal,0,1
+Valencia,Eibar,0,0
+Valencia,Real Sociedad,2,1
+Valencia,Espanyol,1,0
+Valencia,Sevilla,4,0
+Villareal,Valencia,1,0
+Eibar,Valencia,2,1
+Real Sociedad,Valencia,2,3
+Espanyol,Valencia,0,2
+Sevilla,Valencia,0,2
+Sevilla,Eibar,3,0
+Sevilla,Villareal,2,2
+Sevilla,Real Sociedad,1,0
+Sevilla,Espanyol,1,1
+Eibar,Sevilla,5,1
+Villareal,Sevilla,2,3
+Real Sociedad,Sevilla,3,1
+Espanyol,Sevilla,0,3
+Villareal,Eibar,3,0
+Villareal,Real Sociedad,4,2
+Villareal,Espanyol,0,0
+Eibar,Villareal,1,0
+Real Sociedad,Villareal,3,0
+Espanyol,Villareal,1,1
+Eibar,Real Sociedad,0,0
+Eibar,Espanyol,3,1
+Espanyol,Eibar,0,1
+Real Sociedad,Eibar,3,1
+Real Sociedad,Espanyol,1,1
+Espanyol,Real Sociedad,2,1
+Real Madrid,Ath.Bilbao,2,1
+Real Madrid,Barcelona,2,3
+Real Madrid,Ath.Madrid,1,1
+Real Madrid,Valencia,2,1
+Real Madrid,Sevilla,4,1
+Real Madrid,Espanyol,2,0
+Real Madrid,Real Sociedad,3,0
+Real Madrid,Villareal,1,1
+Real Madrid,Eibar,1,1
+Ath.Bilbao,Real Madrid,1,2
+Barcelona,Real Madrid,1,1
+Ath.Madrid,Real Madrid,0,3
+Valencia,Real Madrid,2,1
+Sevilla,Real Madrid,2,1
+Espanyol,Real Madrid,0,2
+Real Sociedad,Real Madrid,0,3
+Villareal,Real Madrid,2,3
+Eibar,Real Madrid,1,4
+Barcelona,Ath.Bilbao,3,0
+Barcelona,Ath.Madrid,1,1
+Barcelona,Valencia,4,2
+Barcelona,Sevilla,3,0
+Barcelona,Espanyol,4,1
+Barcelona,Real Sociedad,3,2
+Barcelona,Villareal,4,1
+Barcelona,Eibar,4,2
+Ath.Bilbao,Barcelona,0,1
+Ath.Madrid,Barcelona,1,2
+Valencia,Barcelona,2,3
+Sevilla,Barcelona,1,2
+Espanyol,Barcelona,0,3
+Real Sociedad,Barcelona,1,1
+Villareal,Barcelona,1,1
+Eibar,Barcelona,0,4
+Ath.Madrid,Eibar,1,0
+Ath.Madrid,Villareal,0,1
+Ath.Madrid,Real Sociedad,1,0
+Ath.Madrid,Espanyol,0,0
+Ath.Madrid,Sevilla,3,1
+Ath.Madrid,Valencia,3,0
+Ath.Madrid,Ath.Bilbao,3,1
+Eibar,Ath.Madrid,0,2
+Villareal,Ath.Madrid,3,0
+Real Sociedad,Ath.Madrid,2,0
+Espanyol,Ath.Madrid,0,1
+Sevilla,Ath.Madrid,1,0
+Valencia,Ath.Madrid,0,2
+Ath.Bilbao,Ath.Madrid,2,2
+Ath.Bilbao,Valencia,2,1
+Ath.Bilbao,Sevilla,3,1
+Ath.Bilbao,Espanyol,2,0
+Ath.Bilbao,Real Sociedad,3,2
+Ath.Bilbao,Villareal,1,0
+Ath.Bilbao,Eibar,3,1
+Valencia,Ath.Bilbao,2,0
+Sevilla,Ath.Bilbao,1,0
+Espanyol,Ath.Bilbao,0,0
+Real Sociedad,Ath.Bilbao,0,2
+Villareal,Ath.Bilbao,3,1
+Eibar,Ath.Bilbao,0,1
+Valencia,Villareal,1,3
+Valencia,Eibar,0,4
+Valencia,Real Sociedad,2,3
+Valencia,Espanyol,2,1
+Valencia,Sevilla,0,0
+Villareal,Valencia,0,2
+Eibar,Valencia,1,0
+Real Sociedad,Valencia,3,2
+Espanyol,Valencia,0,1
+Sevilla,Valencia,2,1
+Sevilla,Eibar,2,0
+Sevilla,Villareal,0,0
+Sevilla,Real Sociedad,1,1
+Sevilla,Espanyol,6,4
+Eibar,Sevilla,1,1
+Villareal,Sevilla,0,0
+Real Sociedad,Sevilla,0,4
+Espanyol,Sevilla,3,1
+Villareal,Eibar,2,3
+Villareal,Real Sociedad,2,1
+Villareal,Espanyol,2,0
+Eibar,Villareal,2,1
+Real Sociedad,Villareal,0,1
+Espanyol,Villareal,0,0
+Eibar,Real Sociedad,2,0
+Eibar,Espanyol,1,1
+Espanyol,Eibar,3,3
+Real Sociedad,Eibar,2,2
+Real Sociedad,Espanyol,1,1
+Espanyol,Real Sociedad,1,2
+Real Madrid,Ath.Bilbao,4,2
+Real Madrid,Barcelona,0,4
+Real Madrid,Ath.Madrid,0,1
+Real Madrid,Valencia,3,2
+Real Madrid,Sevilla,4,0
+Real Madrid,Espanyol,6,0
+Real Madrid,Real Sociedad,3,1
+Real Madrid,Villareal,3,0
+Real Madrid,Eibar,4,0
+Ath.Bilbao,Real Madrid,1,2
+Barcelona,Real Madrid,1,2
+Ath.Madrid,Real Madrid,1,1
+Valencia,Real Madrid,2,2
+Sevilla,Real Madrid,3,2
+Espanyol,Real Madrid,0,6
+Real Sociedad,Real Madrid,3,1
+Villareal,Real Madrid,1,0
+Eibar,Real Madrid,0,2
+Barcelona,Ath.Bilbao,6,0
+Barcelona,Ath.Madrid,2,1
+Barcelona,Valencia,1,2
+Barcelona,Sevilla,2,1
+Barcelona,Espanyol,5,0
+Barcelona,Real Sociedad,4,0
+Barcelona,Villareal,3,0
+Barcelona,Eibar,3,1
+Ath.Bilbao,Barcelona,0,1
+Ath.Madrid,Barcelona,1,2
+Valencia,Barcelona,1,1
+Sevilla,Barcelona,2,1
+Espanyol,Barcelona,0,0
+Real Sociedad,Barcelona,1,0
+Villareal,Barcelona,2,2
+Eibar,Barcelona,0,4
+Ath.Madrid,Eibar,3,1
+Ath.Madrid,Villareal,0,0
+Ath.Madrid,Real Sociedad,3,0
+Ath.Madrid,Espanyol,1,0
+Ath.Madrid,Sevilla,0,0
+Ath.Madrid,Valencia,2,1
+Ath.Madrid,Ath.Bilbao,2,1
+Eibar,Ath.Madrid,0,2
+Villareal,Ath.Madrid,1,0
+Real Sociedad,Ath.Madrid,0,2
+Espanyol,Ath.Madrid,1,3
+Sevilla,Ath.Madrid,0,3
+Valencia,Ath.Madrid,1,3
+Ath.Bilbao,Ath.Madrid,0,1
+Ath.Bilbao,Valencia,3,1
+Ath.Bilbao,Sevilla,3,1
+Ath.Bilbao,Espanyol,2,1
+Ath.Bilbao,Real Sociedad,0,1
+Ath.Bilbao,Villareal,0,0
+Ath.Bilbao,Eibar,5,2
+Valencia,Ath.Bilbao,0,3
+Sevilla,Ath.Bilbao,2,0
+Espanyol,Ath.Bilbao,2,1
+Real Sociedad,Ath.Bilbao,0,0
+Villareal,Ath.Bilbao,3,1
+Eibar,Ath.Bilbao,2,0
+Valencia,Villareal,0,2
+Valencia,Eibar,4,0
+Valencia,Real Sociedad,0,1
+Valencia,Espanyol,2,1
+Valencia,Sevilla,2,1
+Villareal,Valencia,1,0
+Eibar,Valencia,1,1
+Real Sociedad,Valencia,2,0
+Espanyol,Valencia,1,0
+Sevilla,Valencia,1,0
+Sevilla,Eibar,1,0
+Sevilla,Villareal,4,2
+Sevilla,Real Sociedad,1,2
+Sevilla,Espanyol,2,0
+Eibar,Sevilla,1,1
+Villareal,Sevilla,2,1
+Real Sociedad,Sevilla,2,0
+Espanyol,Sevilla,1,0
+Villareal,Eibar,1,1
+Villareal,Real Sociedad,0,0
+Villareal,Espanyol,3,1
+Eibar,Villareal,1,2
+Real Sociedad,Villareal,0,2
+Espanyol,Villareal,2,2
+Eibar,Real Sociedad,2,1
+Eibar,Espanyol,2,1
+Espanyol,Eibar,4,2
+Real Sociedad,Eibar,2,1
+Real Sociedad,Espanyol,2,3
+Espanyol,Real Sociedad,0,5
+Real Madrid,Ath.Bilbao,5,0
+Real Madrid,Barcelona,3,1
+Real Madrid,Ath.Madrid,1,2
+Real Madrid,Valencia,2,2
+Real Madrid,Sevilla,2,1
+Real Madrid,Espanyol,3,0
+Real Madrid,Real Sociedad,4,1
+Real Madrid,Villareal,1,1
+Real Madrid,Eibar,3,0
+Ath.Bilbao,Real Madrid,1,0
+Barcelona,Real Madrid,2,1
+Ath.Madrid,Real Madrid,4,0
+Valencia,Real Madrid,2,1
+Sevilla,Real Madrid,2,3
+Espanyol,Real Madrid,1,4
+Real Sociedad,Real Madrid,4,2
+Villareal,Real Madrid,0,2
+Eibar,Real Madrid,0,4
+Barcelona,Ath.Bilbao,2,0
+Barcelona,Ath.Madrid,3,1
+Barcelona,Valencia,2,0
+Barcelona,Sevilla,5,1
+Barcelona,Espanyol,5,1
+Barcelona,Real Sociedad,2,0
+Barcelona,Villareal,3,2
+Barcelona,Eibar,3,0
+Ath.Bilbao,Barcelona,2,5
+Ath.Madrid,Barcelona,0,1
+Valencia,Barcelona,0,1
+Sevilla,Barcelona,0,2
+Espanyol,Barcelona,2,2
+Real Sociedad,Barcelona,1,0
+Villareal,Barcelona,0,1
+Eibar,Barcelona,0,2
+Ath.Madrid,Eibar,2,1
+Ath.Madrid,Villareal,0,1
+Ath.Madrid,Real Sociedad,2,0
+Ath.Madrid,Espanyol,2,0
+Ath.Madrid,Sevilla,4,0
+Ath.Madrid,Valencia,1,1
+Ath.Madrid,Ath.Bilbao,0,0
+Eibar,Ath.Madrid,1,3
+Villareal,Ath.Madrid,0,1
+Real Sociedad,Ath.Madrid,2,1
+Espanyol,Ath.Madrid,0,0
+Sevilla,Ath.Madrid,0,0
+Valencia,Ath.Madrid,3,1
+Ath.Bilbao,Ath.Madrid,1,4
+Ath.Bilbao,Valencia,1,1
+Ath.Bilbao,Sevilla,1,0
+Ath.Bilbao,Espanyol,3,1
+Ath.Bilbao,Real Sociedad,1,1
+Ath.Bilbao,Villareal,4,0
+Ath.Bilbao,Eibar,0,0
+Valencia,Ath.Bilbao,0,0
+Sevilla,Ath.Bilbao,2,0
+Espanyol,Ath.Bilbao,1,0
+Real Sociedad,Ath.Bilbao,1,1
+Villareal,Ath.Bilbao,2,0
+Eibar,Ath.Bilbao,0,1
+Valencia,Villareal,0,0
+Valencia,Eibar,3,1
+Valencia,Real Sociedad,2,0
+Valencia,Espanyol,3,1
+Valencia,Sevilla,3,1
+Villareal,Valencia,1,3
+Eibar,Valencia,0,1
+Real Sociedad,Valencia,1,1
+Espanyol,Valencia,1,2
+Sevilla,Valencia,1,1
+Sevilla,Eibar,0,0
+Sevilla,Villareal,2,1
+Sevilla,Real Sociedad,1,0
+Sevilla,Espanyol,3,2
+Eibar,Sevilla,1,3
+Villareal,Sevilla,0,2
+Real Sociedad,Sevilla,4,3
+Espanyol,Sevilla,1,2
+Villareal,Eibar,1,0
+Villareal,Real Sociedad,4,0
+Villareal,Espanyol,0,3
+Eibar,Villareal,1,1
+Real Sociedad,Villareal,0,0
+Espanyol,Villareal,1,1
+Eibar,Real Sociedad,1,0
+Eibar,Espanyol,0,2
+Espanyol,Eibar,1,2
+Real Sociedad,Eibar,1,0
+Real Sociedad,Espanyol,1,0
+Espanyol,Real Sociedad,2,0
